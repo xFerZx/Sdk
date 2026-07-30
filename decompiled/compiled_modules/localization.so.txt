@@ -1,0 +1,3 @@
+Файл: localization.so
+Тип: ELF 64-bit LSB shared object ARM aarch64
+Статус: скомпилированный и stripped, исходный Python-код недоступен.
